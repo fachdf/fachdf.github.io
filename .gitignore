@@ -2,6 +2,9 @@
 *~
 *.sw[p_]
 
+# IntelliJ IDEA
+*.idea
+
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
@@ -10,7 +13,7 @@
 *.gem
 .bundle
 Gemfile.lock
-vendor/bundle
+**/vendor/bundle
 
 # Node.js and NPM
 node_modules

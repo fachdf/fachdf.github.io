@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-12-18T10:49:00+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fachri’s Portfolio</title><subtitle>a simple blogspot for my works</subtitle><author><name>Fachri Dhia Fauzan</name></author><entry><title type="html">Pinturumah</title><link href="http://localhost:4000/project/pinturumah/" rel="alternate" type="text/html" title="Pinturumah" /><published>2025-12-04T00:00:00+07:00</published><updated>2025-12-04T00:00:00+07:00</updated><id>http://localhost:4000/project/pinturumah</id><content type="html" xml:base="http://localhost:4000/project/pinturumah/"><![CDATA[<p>A real estate platform connecting property sales agents with potential homebuyers. Pinturumah serves as a bridge between sales professionals working with property developers and customers looking for their dream homes. The platform enhances transparency and trust by providing real-time construction progress updates, survey request capabilities, and visibility into community development—giving buyers confidence throughout their property purchase journey. As a Full-stack Developer, I managed the complete project lifecycle from requirements gathering to deployment and user training.</p>
+
+<p><img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766029014/Screenshot_2025-12-18_103550_qi43gz.png" alt="PINTURUMAH" /></p>
+
+<p><img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766029014/Screenshot_2025-12-18_103633_ha6nfj.png" alt="PINTURUMAH DETAILS" /></p>
+
+<h2 id="my-contributions">My Contributions</h2>
+
+<ul>
+  <li><strong>Property Listings</strong>: Developed comprehensive property listing system showcasing available houses with detailed specifications, pricing, and location information.</li>
+  <li><strong>Survey Request System</strong>: Built functionality allowing potential buyers to schedule property surveys and site visits directly through the platform.</li>
+  <li><strong>Construction Progress Tracking</strong>: Implemented progress monitoring features displaying real-time updates on building development, complete with photos and milestone tracking to build customer trust.</li>
+  <li><strong>Community Development Updates</strong>: Created modules to showcase public infrastructure progress including parks, roads, and amenities, giving buyers full visibility into neighborhood development.</li>
+  <li><strong>Stakeholder Collaboration</strong>: Translated business requirements from property sales teams into technical specifications, ensuring the platform met real-world sales needs.</li>
+  <li><strong>User Training</strong>: Conducted hands-on training sessions for sales agents and admin staff, ensuring effective platform adoption and usage.</li>
+  <li><strong>Full Project Lifecycle</strong>: Managed end-to-end development from initial requirements gathering, technical implementation, deployment, to post-launch support.</li>
+</ul>]]></content><author><name>Fachri Dhia Fauzan</name></author><category term="Project" /><category term="Web App" /><category term="Yii2" /><category term="PHP" /><category term="Nginx" /><category term="PostgreSQL" /><category term="NextJs" /><summary type="html"><![CDATA[A real estate platform connecting property sales agents with potential homebuyers. Pinturumah serves as a bridge between sales professionals working with property developers and customers looking for their dream homes. The platform enhances transparency and trust by providing real-time construction progress updates, survey request capabilities, and visibility into community development—giving buyers confidence throughout their property purchase journey. As a Full-stack Developer, I managed the complete project lifecycle from requirements gathering to deployment and user training.]]></summary></entry><entry><title type="html">SUMU - Newimers</title><link href="http://localhost:4000/project/sumu/" rel="alternate" type="text/html" title="SUMU - Newimers" /><published>2025-12-03T00:00:00+07:00</published><updated>2025-12-03T00:00:00+07:00</updated><id>http://localhost:4000/project/sumu</id><content type="html" xml:base="http://localhost:4000/project/sumu/"><![CDATA[<p>A comprehensive platform combining e-learning, course management, seminars, and e-commerce for SUMU (Serikat Usaha Muhammadiyah) internet marketers. The platform serves as a hub where members can access educational content, participate in paid/free seminars to network with fellow marketers, and source products for their businesses. As a Full-stack Developer, I contributed to building the integrated platform that supports both learning and commerce functionalities.</p>
+
+<p><img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766028532/Screenshot_2025-12-18_102831_hwj9zw.png" alt="SUMU" /></p>
+
+<p><img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766028483/Screenshot_2025-12-18_102748_exthmg.png" alt="SUMU ELEARNING" /></p>
+
+<h2 id="my-contributions">My Contributions</h2>
+
+<ul>
+  <li>
+    <p><strong>E-learning System</strong>: Developed course management features including video lessons, learning materials, progress tracking, and completion certificates.</p>
+  </li>
+  <li>
+    <p><strong>Seminar Management</strong>: Built event registration and management system for online and offline seminars, including participant tracking and attendance management.</p>
+  </li>
+  <li>
+    <p><strong>Fomotoko E-commerce system</strong>: Implemented fomotoko’s e-commerce capabilities, allowing members to browse and purchase products directly within the platform.</p>
+  </li>
+  <li>
+    <p><strong>User Management</strong>: Created membership systems with tiered access controls for different user roles and subscription levels.</p>
+  </li>
+  <li>
+    <p><strong>Full-stack Development</strong>: Built backend APIs and responsive frontend interfaces to deliver seamless user experience across learning and commerce modules.</p>
+  </li>
+</ul>]]></content><author><name>Fachri Dhia Fauzan</name></author><category term="Project" /><category term="Web App" /><category term="Yii2" /><category term="PHP" /><category term="Nginx" /><category term="PostgreSQL" /><category term="NextJs" /><summary type="html"><![CDATA[A comprehensive platform combining e-learning, course management, seminars, and e-commerce for SUMU (Serikat Usaha Muhammadiyah) internet marketers. The platform serves as a hub where members can access educational content, participate in paid/free seminars to network with fellow marketers, and source products for their businesses. As a Full-stack Developer, I contributed to building the integrated platform that supports both learning and commerce functionalities.]]></summary></entry><entry><title type="html">Fomo Admin Panel</title><link href="http://localhost:4000/project/fomo-admin-panel/" rel="alternate" type="text/html" title="Fomo Admin Panel" /><published>2025-12-02T00:00:00+07:00</published><updated>2025-12-02T00:00:00+07:00</updated><id>http://localhost:4000/project/fomo-admin-panel</id><content type="html" xml:base="http://localhost:4000/project/fomo-admin-panel/"><![CDATA[<p>A web based comprehensive admin dashboard for managing e-commerce operations. The platform integrates content management (products, banners, landing pages, vouchers), order management (fulfillment and customer ticketing), user management, inventory tracking, and finance reporting. As a Full-stack Developer, I built and maintained core features that enable business teams to efficiently manage their e-commerce ecosystem.</p>
+
+<p><img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1765964091/Screenshot_2025-12-17_162235_qukhlk.png" alt="FOMO ADMIN PANEL" /></p>
+
+<h2 id="my-contributions">My Contributions</h2>
+
+<ul>
+  <li><strong>Content Management System</strong>: Developed modules for managing products, promotional banners, landing pages, and voucher campaigns with a user-friendly interface.</li>
+  <li><strong>Order Management</strong>: Built order fulfillment workflows and integrated a ticketing system for handling customer complaints and order issues.</li>
+  <li><strong>User Management</strong>: Implemented role-based access control and user administration features to manage internal teams and customer accounts.</li>
+  <li><strong>Inventory Management</strong>: Created inventory tracking systems to monitor stock levels, product variants, and warehouse operations.</li>
+  <li><strong>Full-stack Development</strong>: Worked across the entire stack, building backend APIs with Yii2 and responsive admin interfaces with NuxtJS.</li>
+</ul>]]></content><author><name>Fachri Dhia Fauzan</name></author><category term="Project" /><category term="Web App" /><category term="Yii2" /><category term="PHP" /><category term="Nginx" /><category term="PostgreSQL" /><category term="NuxtJS" /><summary type="html"><![CDATA[A web based comprehensive admin dashboard for managing e-commerce operations. The platform integrates content management (products, banners, landing pages, vouchers), order management (fulfillment and customer ticketing), user management, inventory tracking, and finance reporting. As a Full-stack Developer, I built and maintained core features that enable business teams to efficiently manage their e-commerce ecosystem.]]></summary></entry><entry><title type="html">Fomotoko</title><link href="http://localhost:4000/project/fomotoko/" rel="alternate" type="text/html" title="Fomotoko" /><published>2025-12-02T00:00:00+07:00</published><updated>2025-12-02T00:00:00+07:00</updated><id>http://localhost:4000/project/fomotoko</id><content type="html" xml:base="http://localhost:4000/project/fomotoko/"><![CDATA[<p>An e-commerce platform designed for internet marketers to source products and manage sales through customizable order forms. The platform provides end-to-end e-commerce capabilities including product sourcing, checkout systems, payment processing, and customer support, helping internet marketers to operate and scale their online businesses quickly. As a Full-stack Developer, I architected and delivered most of the platform’s core features while conducting hands-on user training.</p>
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766026929/Screenshot_2025-12-18_100019_vkcwdv.png" alt="FOMOTOKO" style="max-width: 300px; height: auto;" />
+  <img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766026928/Screenshot_2025-12-18_095953_sov5oi.png" alt="IMERS PRODUCT LISTING" style="max-width: 300px; height: auto;" />
+</div>
+
+<h2 id="my-contributions">My Contributions</h2>
+
+<ul>
+  <li><strong>Third-Party Logistics Integration</strong>: Integrated multiple 3PL providers for automated shipping requests, tracking, and fulfillment, enabling order delivery across Indonesia.</li>
+  <li><strong>Product Management</strong>: Built comprehensive product listing systems with variant management, pricing controls, and inventory synchronization for internet marketers (users).</li>
+  <li><strong>Sub-Account Management</strong>: Developed role-based sub-account system allowing internet marketers to add customer service admins with specific permissions to handle orders and support tickets.</li>
+  <li><strong>Checkout System</strong>: Developed a flexible checkout flow supporting multiple payment methods, address validation, order customization that fits the needs of internet marketers.</li>
+  <li><strong>Payment Gateway Integration</strong>: Integrated secure payment gateways to handle transactions, ensuring PCI compliance and data security.</li>
+  <li><strong>Voucher &amp; Promotions</strong>: Implemented voucher systems with various discount types, usage limits, and campaign management features.</li>
+  <li><strong>Customer Ticketing</strong>: Created a support ticketing system for handling customer inquiries, complaints, and order issues with proper tracking and resolution workflows.</li>
+  <li><strong>User Training</strong>: Conducted hands-on training sessions for end-users, ensuring smooth platform adoption and effective feature utilization.</li>
+</ul>]]></content><author><name>Fachri Dhia Fauzan</name></author><category term="Project" /><category term="Web App" /><category term="Yii2" /><category term="PHP" /><category term="Nginx" /><category term="PostgreSQL" /><category term="NuxtJS" /><category term="Go" /><summary type="html"><![CDATA[An e-commerce platform designed for internet marketers to source products and manage sales through customizable order forms. The platform provides end-to-end e-commerce capabilities including product sourcing, checkout systems, payment processing, and customer support, helping internet marketers to operate and scale their online businesses quickly. As a Full-stack Developer, I architected and delivered most of the platform’s core features while conducting hands-on user training.]]></summary></entry><entry><title type="html">Rukun</title><link href="http://localhost:4000/project/rukun/" rel="alternate" type="text/html" title="Rukun" /><published>2025-12-01T00:00:00+07:00</published><updated>2025-12-01T00:00:00+07:00</updated><id>http://localhost:4000/project/rukun</id><content type="html" xml:base="http://localhost:4000/project/rukun/"><![CDATA[<p>A mobile-based community management platform designed to help neighborhood organizations such as Rukun Warga (RW) manage their communities effectively. The application provides free tools for handling public complaints, billing management, financial tracking, and emergency alerts. As a Backend and DevOps Engineer Intern, I contributed to building and deploying the backend API, collaborating with mobile dev team, ensuring system stability through bug fixes, performance testing, and infrastructure management.</p>
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1765959320/mockup-hp_swqenc.png" alt="Rukun Mobile App" style="max-width: 300px; height: auto;" />
+  <img src="https://res.cloudinary.com/dkbgfgqgx/image/upload/v1765959316/mockup-1hp_do7wuz.png" alt="Rukun Mobile App" style="max-width: 300px; height: auto;" />
+</div>
+
+<h2 id="my-contributions">My Contributions</h2>
+
+<p>During my internship, I focused on stabilizing and improving the backend infrastructure:</p>
+
+<ul>
+  <li><strong>Debugging &amp; Version Control</strong>: Resolved numerous issues caused by uncommitted code changes and version control inconsistencies, ensuring the codebase remained stable and synchronized across the team.</li>
+  <li><strong>Code Quality</strong>: Improved code cleanliness by refactoring legacy code, implementing consistent coding standards, and removing technical debt.</li>
+  <li><strong>Database Management</strong>: Fixed missing database schemas and attributes, ensuring data integrity and proper relationships between tables.</li>
+  <li><strong>Backend Deployment</strong>: Managed the deployment of the backend API to production, ensuring smooth integration with the mobile application.</li>
+  <li><strong>Performance Testing</strong>: Conducted load testing using JMeter to identify bottlenecks and ensure the system could handle expected user traffic.</li>
+</ul>]]></content><author><name>Fachri Dhia Fauzan</name></author><category term="Project" /><category term="Mobile App" /><category term="Laravel" /><category term="PHP" /><category term="Apache" /><category term="JMeter" /><category term="PostgreSQL" /><summary type="html"><![CDATA[A mobile-based community management platform designed to help neighborhood organizations such as Rukun Warga (RW) manage their communities effectively. The application provides free tools for handling public complaints, billing management, financial tracking, and emergency alerts. As a Backend and DevOps Engineer Intern, I contributed to building and deploying the backend API, collaborating with mobile dev team, ensuring system stability through bug fixes, performance testing, and infrastructure management.]]></summary></entry></feed>

@@ -13,6 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-remote-theme"
   gem "listen"
-  gem "wdm"
   gem 'jekyll-archives'
 end

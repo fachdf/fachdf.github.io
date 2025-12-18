@@ -11,7 +11,7 @@ tags:
   - NextJs
 ---
 
-A real estate platform connecting property sales agents with potential homebuyers. Pinturumah serves as a bridge between sales professionals working with property developers and customers looking for their dream homes. The platform enhances transparency and trust by providing real-time construction progress updates, survey request capabilities, and visibility into community development—giving buyers confidence throughout their property purchase journey. As a Full-stack Developer, I managed the complete project lifecycle from requirements gathering to deployment and user training.
+A real estate platform connecting property sales agents with potential homebuyers. The platform enhances transparency and trust by providing real-time construction progress updates, survey request capabilities, and visibility into community development. This platform give buyers confidence throughout their property purchase journey. As a Full-stack Developer, I managed the complete project lifecycle from requirements gathering to deployment and user training.
 
 ![PINTURUMAH](https://res.cloudinary.com/dkbgfgqgx/image/upload/v1766029014/Screenshot_2025-12-18_103550_qi43gz.png)
 

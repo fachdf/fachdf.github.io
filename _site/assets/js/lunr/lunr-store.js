@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Pinturumah",
-        "excerpt":"A real estate platform connecting property sales agents with potential homebuyers. Pinturumah serves as a bridge between sales professionals working with property developers and customers looking for their dream homes. The platform enhances transparency and trust by providing real-time construction progress updates, survey request capabilities, and visibility into community development—giving...","categories": ["Project"],
+        "excerpt":"A real estate platform connecting property sales agents with potential homebuyers. The platform enhances transparency and trust by providing real-time construction progress updates, survey request capabilities, and visibility into community development. This platform give buyers confidence throughout their property purchase journey. As a Full-stack Developer, I managed the complete project...","categories": ["Project"],
         "tags": ["Web App","Yii2","PHP","Nginx","PostgreSQL","NextJs"],
         "url": "/project/pinturumah/",
         "teaser": null
